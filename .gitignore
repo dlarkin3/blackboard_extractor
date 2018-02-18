@@ -1,0 +1,9 @@
+Downloads/
+tmp/
+Archive/
+others/
+txt_files/
+*.pyc
+*~
+*.zip
+log_in.txt
