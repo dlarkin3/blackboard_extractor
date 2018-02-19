@@ -1,8 +1,9 @@
 # Downloads files from Blackboard Mechatronics course
 
 ## Extract data from Blackboard. 
-This downloads all files that end with: (".pdf",".doc",".docx",".ino",".zip",".txt") and copies all text entries into a file.
-This code is written for Python2.7
+- This downloads all files that end with: (".pdf",".doc",".docx",".ino",".zip",".txt") and copies all text entries into a file.
+- This code is written for Python2.7
+- This code converts all docx and doc files to pdf and also saves them as a pdf.
 
 ## Dependencies (probably not all)
 - `sudo apt-get install selenium`
