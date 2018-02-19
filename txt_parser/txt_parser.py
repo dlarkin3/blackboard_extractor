@@ -18,9 +18,7 @@ if __name__ == '__main__':
     ignoreLineStrings = []
     with open('ignoreLineList.txt')as f:
         ignoreLineStrings = f.read().splitlines()
-    #print ignoreLineStrings
 
-    byfileID = {}
     dataDir = "../Data/TXT"
     lastEvent = ""
     charCounts=[]
